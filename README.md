@@ -11,7 +11,10 @@ Run these commands:
 
 `npm install`
 
+`npm install express`
+
 `node app.js`
+
 
 or Run by docker compose
 
